@@ -118,7 +118,7 @@ class NewTrialClassComponent extends Component {
     });
     if (errors) return;
 
-    axios.post('/', this.state.details)
+    axios.post('http://localhost:5000/', this.state.details)
       .then(data => {
         alert('Successfully booked the trial class.')
       })
