@@ -1,6 +1,6 @@
 # Book a trial class
 
-This app is used to book trial class for people. The application is built using the latest version of React.
+This app is used to book trial class and send email confirmation for the booked class for people. The application is built using the latest version of React.
 
 ## How to run the application
 
